@@ -19,6 +19,7 @@
     "tailwindcss": "^4.1.13",
     "three": "^0.180.0",
     "three-custom-shader-material": "^6.3.7",
+    "troika-three-text": "^0.52.4",
     "vite-plugin-glsl": "^1.5.1"
   }
 }
